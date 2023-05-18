@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zornitsa728
+- 👋 Hi, I’m Zornitsa Zlatkova
 - 👀 I’m interested in learning C#
 - 🌱 I’m currently learning Software Engineering at SoftUni.
 
