@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zornitsa Zlatkova [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000504615499)
+- 👋 Hi, I’m Zornitsa Zlatkova [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/zornitsazlatkova/) 
 - 👀 I’m interested in learning C#
 - 🌱 I’m currently learning Software Engineering at SoftUni.
 
