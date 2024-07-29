@@ -1,4 +1,4 @@
-### Hi, I am Zornitsa Zlatkova! 👋
+### Hi, I am Zornitsa Stoyanova! 👋
 - 👀 I’m interested in learning C#
 - 🌱 I’m currently learning Software Engineering at SoftUni.
 
