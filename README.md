@@ -1,5 +1,5 @@
 ### Hi, I am Zornitsa Stoyanova! 👋
-- 🌱 I’m currently learning Software Engineering at SoftUni.
+- 🌱 I’m currently learning Software Engineering with C# at SoftUni.
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000504615499)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zornitsa-stoyanova-a2034b275) 
