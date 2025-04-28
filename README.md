@@ -10,7 +10,7 @@ I am passionate about building robust, scalable applications and continuously im
 ---
 
 ## 🛠️ Technologies and Tools
-- **Languages**: C#, JavaScript, SQL
+- **Languages**: C#, JavaScript, HTML, CSS, SQL
 - **Frameworks**: ASP.NET Core, Entity Framework Core
 - **Databases**: MS SQL Server
 - **Tools**: Git, Postman
@@ -26,7 +26,6 @@ A full-stack recipe application built with ASP.NET Core and Entity Framework.
 - User authentication
 - Recipe CRUD operations
 - RESTful API
-- Dockerized deployment
 
 ---
 
