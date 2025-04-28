@@ -21,11 +21,14 @@ Other: REST APIs, MVC Architecture, Unit Testing (xUnit, NUnit, Moq)
 Here are some of the projects I’ve built to practice and demonstrate my skills:
 
 RecipeApp
+
 A full-stack recipe application built with ASP.NET Core and Entity Framework.
+
 Features: User authentication, recipe CRUD operations, RESTful API, and Dockerized deployment.
 https://github.com/Zornitsa728/IndividualProject2024
 
 ASP.NET Fundamentals Project
+
 Project started during my ASP.NET course at SoftUni and still in progress.
 https://github.com/Zornitsa728/CinemaApp2025
 
