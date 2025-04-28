@@ -1,7 +1,9 @@
 ### Hi there, I'm Zornitsa! 👋
 
 🎓 I recently graduated from SoftUni with a diploma in Back-End Development.
+
 💻 I am passionate about building robust, scalable applications and continuously improving my skills.
+
 🚀 I am currently seeking my first opportunity as a Junior Back-End Developer!
 
 🛠️ Technologies and Tools
