@@ -29,8 +29,8 @@ A full-stack recipe application built with ASP.NET Core and Entity Framework.
 
 ---
 
-### [ASP.NET Fundamentals Project](https://github.com/Zornitsa728/CinemaApp2025)  
-A project started during my ASP.NET course at SoftUni and still in progress.
+### [CinemaApp](https://github.com/Zornitsa728/CinemaApp2025)  
+Cinema application project built with ASP.NET Core and Entity Framework that is still in progress.
 
 ---
 
